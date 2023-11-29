@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ADApp.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "exportADUsersForExcel"
+    }
+  }
+}
